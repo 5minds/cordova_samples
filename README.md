@@ -71,8 +71,12 @@ Es werden folgende Cordova-Plugins verwendet:
 - Device: _org.apache.cordova.device_
 - Media: _org.apache.cordova.media_
 
-## 99_StepByStep_jQueryUI
+## 98_StepByStep_jQueryUI
 Zeigt das Beispiel von 06_jQueryUI als StepByStepGuide
+
+## 99_Sample_with_Angular.js - https://github.com/5minds/mean_simple_todo_app
+Beispiel einer Anwendung mit Angular.js - maximale Wiederverwendung einer SPA
+
 
 [Readme](99_StepByStep_jQueryUI/README.md)
 
